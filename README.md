@@ -1,2 +1,14 @@
-# Melalukan koneksi ke server menggunakan protokol SSH
-pada repository akan dijelaskan write up bagimana langkah dan hasil laporan untuk mengimplementasikan protokol SSH untuk melakukan koneksi pada server yang menggunakan GUI sebagai media interaksi dengan pengguna.
+   **Nama: Zahid Wazifa**
+   
+   **NIM: 09011282328106**
+   
+   **Kelas: SK3A**
+   
+   **Dosen Pengampu Mata Kuliah: 	Adi Hermansyah, S.Kom., M.T**
+
+
+---
+
+# WriteUp Akses Server Base OS dengan protokol SSH
+
+
